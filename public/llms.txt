@@ -1,0 +1,17 @@
+# LinguaSUpra
+
+> Premium Business English coaching by CELTA & TESOL certified trainer Sujata Agarwal, helping senior professionals and executive teams communicate with clarity, precision, and authority.
+
+LinguaSUpra offers 1:1 online coaching (with on-site options in Luxembourg and neighbouring countries) covering meetings, presentations, negotiations, professional writing, leadership communication, cross-cultural communication, industry-specific vocabulary, and interview / LinkedIn preparation.
+
+## Pages
+
+- [Home](/): Overview, programmes, testimonials, FAQ, and how to book a call.
+
+## Optional
+
+- [Legal Notice](/legal-notice): Site owner, hosting, applicable law.
+- [Privacy Policy](/privacy): GDPR data processing details.
+- [Cookie Policy](/cookies): Cookies used and consent management.
+- [Terms & Conditions](/terms): Terms for coaching services.
+- [Disclaimer](/disclaimer): Content and outcomes disclaimer.

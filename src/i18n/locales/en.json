@@ -1,0 +1,820 @@
+{
+  "nav": {
+    "about": "About",
+    "programmes": "Programmes",
+    "howItWorks": "How It Works",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "bookACall": "Schedule Call"
+  },
+  "hero": {
+    "eyebrow": "Business English · Executive coaching",
+    "h1Pre": "Speak English that",
+    "h1Highlight": "wins the room.",
+    "h1": "Speak English that wins the room.",
+    "sub": "You're excellent at your job. LinguaSUpra makes sure your English shows it - practical, personalised coaching you apply in your very next meeting, pitch, or email.",
+    "primaryCta": "Book your call",
+    "secondaryCta": "Or message on WhatsApp",
+    "trust": "CELTA, INFPC & TESOL certified - 15+ years - Trusted by leading multinationals across Europe"
+  },
+  "trust": {
+    "items": [
+      {
+        "title": "15+ Years",
+        "text": "Corporate Business English training"
+      },
+      {
+        "title": "CELTA, INFPC & TESOL",
+        "text": "Internationally recognised qualifications"
+      },
+      {
+        "title": "25+ Nationalities",
+        "text": "Intercultural experience that shapes every session"
+      },
+      {
+        "title": "Trusted by Multinationals",
+        "text": "Luxembourg - France - Germany - Belgium"
+      }
+    ]
+  },
+  "problem": {
+    "h2": "Your ideas land. Does your English?",
+    "body": "In international business, decisions are made in English - in the meeting, the negotiation, the presentation. Many experienced professionals know the feeling: you hold back a point because the words won't come fast enough. You soften a position you meant to defend. You reread an email three times and still hesitate to send it. It is not a lack of competence. It is English that hasn't caught up with your competence yet.",
+    "close": "That gap is exactly what LinguaSUpra closes: confidence, fluency, and accuracy - built on your real workplace situations, so every session pays off in your very next meeting."
+  },
+  "about": {
+    "h2": "Meet Su",
+    "body": "Su is a CELTA- and TESOL-qualified Business English trainer with over 15 years of experience helping professionals communicate with confidence in international business. She has delivered training for leading multinational companies across Luxembourg, France, Germany, and Belgium. Working across a wide range of industries and departments, delivering group, one-to-one and intensive English coaching programmes."
+  },
+  "programmes": {
+    "h2": "Programmes built around your work",
+    "cards": [
+      {
+        "title": "Meetings & Discussions",
+        "alt": "International meeting communication skills",
+        "text": "Contribute early, hold the floor, and make your point land in fast-paced international meetings."
+      },
+      {
+        "title": "Presentations",
+        "alt": "Executive presentation skills training",
+        "text": "Structure, deliver, and handle questions with authority - in English that sounds like you at your best."
+      },
+      {
+        "title": "Negotiations",
+        "alt": "Professional business negotiation coaching",
+        "text": "Choose words with precision when the stakes are high: positions, concessions, and agreements."
+      },
+      {
+        "title": "Professional Emails & Writing",
+        "alt": "Business email writing coaching",
+        "text": "Write clear, confident business correspondence - emails, telephoning, and networking - using the right tone for every reader and every context."
+      },
+      {
+        "title": "Leadership Communication",
+        "alt": "Executive leadership communication coaching",
+        "text": "Motivate teams, deliver difficult messages, and represent your organisation at senior level."
+      },
+      {
+        "title": "Cross-Cultural Communication",
+        "alt": "Cross-cultural business communication training",
+        "text": "Read the room across cultures and adapt your English to international colleagues and clients."
+      },
+      {
+        "title": "Industry & Role-Specific Vocabulary",
+        "alt": "Industry-specific business vocabulary coaching",
+        "text": "Master the precise language of your sector, department, and role."
+      },
+      {
+        "title": "Interviews & LinkedIn",
+        "alt": "Job interview and LinkedIn coaching",
+        "text": "Present your experience convincingly in job interviews and a sharp, professional LinkedIn profile."
+      }
+    ],
+    "audienceNote": "Private 1 to 1 coaching for professionals is the core offer. Tailored team and executive programmes are available for organisations - including confidential senior-level assignments.",
+    "cta": "Discuss your goals - Book a Call"
+  },
+  "how": {
+    "h2": "From first call to confident communication",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Analysis Call",
+        "text": "A short conversation to understand your role, your goals, and where English is holding you back."
+      },
+      {
+        "n": "02",
+        "title": "Tailored Course",
+        "text": "A programme designed around your real workplace situations - the meetings, presentations, and writing you handle every week."
+      },
+      {
+        "n": "03",
+        "title": "Coaching that shows at work",
+        "text": "Regular 1 to 1 sessions with practical drills and feedback, so progress shows up in your very next meeting, presentation, or email."
+      }
+    ]
+  },
+  "benefits": {
+    "h2": "What changes for you and your organisation",
+    "items": [
+      "Speak up sooner - Contribute earlier in meetings and hold your ground under pressure.",
+      "Present with authority - Structure your ideas and deliver them like the expert you are.",
+      "Write quicker - Emails that are clear, confident, and quick to send.",
+      "Apply learnings immediately - Every session targets real workplace situations, so progress is visible immediately.",
+      "Develop skills that pay off - Practical communication skills that improve collaboration, client relationships, and productivity.",
+      "Measurable results - Programmes tailored to concrete business objectives, with progress you and your organisation can see."
+    ]
+  },
+  "testimonials": {
+    "h2": "What clients say",
+    "placeholder": "Testimonials coming soon",
+    "list": [
+      {
+        "quote": "Su was an incredible support in helping me achieve my goal of improving both my spoken and written English. She quickly identified my areas for improvement and designed lessons that were perfectly tailored to my needs. Thanks to her personalized approach, I not only made significant progress in my English skills but also gained the confidence to communicate much more naturally and comfortably. I highly recommend Su to anyone looking for an engaging, supportive, and highly effective English teacher.",
+        "name": "Nathalie Demeurs",
+        "role": "Director Compliance"
+      },
+      {
+        "quote": "Su is an exceptional coach with a rare gift for combining professionalism with genuine warmth. I worked with her to prepare for a major presentation at the One Identity conference in Prague, a key European event for the Identity and Access Management community, speaking in front of an audience of industry professionals and security-focused executives. Thanks to her coaching, I didn't just improve my English. I gained real confidence in my delivery and learned how to tailor my message to a demanding, expert audience. What struck me most was her humanity: she never made me feel like a student, but like someone genuinely invested in helping me grow. Her ability to craft exercises tailored to my specific needs, both on the language itself and on the content and structure of my presentation, made all the difference. The presentation was a real success, and I owe a large part of that to her guidance. I can't recommend Su enough to anyone looking to build confidence and truly connect with their audience.",
+        "name": "Mounkeila René Drabo",
+        "role": "Chef de section"
+      },
+      {
+        "quote": "Su is very supportive, and explains well with patience. She quickly identifies her students' weaknesses and provides clear explanations and practical examples to help them improve. Her lessons are always enjoyable and feel more like a natural conversation than a traditional class, making learning both effective and motivating. Her dedication to teaching is evident, and I have become much more confident using English at work thanks to her lessons.",
+        "name": "Suin Jo",
+        "role": "Compliance Officer"
+      },
+      {
+        "quote": "My lessons with Su combined regular, natural conversation practice with immediate correction, so mistakes were fixed on the spot rather than left to become habits. She focused on vocabulary relevant to my profession, alongside practical English for everyday phone calls and emails. Grammar topics were explained simply and clearly, always backed up with exercises to reinforce what I had learned, and my reading comprehension improved through newspaper articles and relevant business news. Every assignment and test came with detailed feedback, so I always knew exactly where I stood and what to work on next.",
+        "name": "Myriam Schmitz",
+        "role": "Customer Support"
+      },
+      {
+        "quote": "My one-to-one English lessons with Su have enabled me to revise and correct my grammar and verb conjugation mistakes, and to improve my vocabulary, both in general and in a professional context. The lessons are varied, with a balanced mix of discussions about everyday life, exercises, reading newspaper articles and discussions on current economic and political affairs, all in a friendly and relaxed atmosphere, which makes learning both enjoyable and effective. Su's professionalism and the techniques she uses - particularly her practice of correcting and explaining every mistake I make when speaking - have enabled me to make significant progress in English.",
+        "name": "Benoît Manns",
+        "role": "Head of Technical Purchasing"
+      },
+      {
+        "quote": "I really appreciate having English lessons with Su for the past two years. She has helped me progress, explains things very well, we talk about many subjects and themes, she corrects my pronunciation, and she is very patient with me.",
+        "name": "Laurence Iorio",
+        "role": "Trustee Control"
+      },
+      {
+        "quote": "I highly recommend Su as an English teacher and coach. She creates a friendly and motivating atmosphere where everyone feels comfortable speaking. The lessons included plenty of opportunities to practise speaking, with immediate feedback and corrections that really helped me improve my confidence and fluency. I also found the role plays based on real business situations extremely useful, as they allowed me to apply what I learned in realistic scenarios. Su is professional, patient and always takes the time to explain grammar clearly. What I appreciated most was how she personalised the lessons to match my goals, making every session practical, relevant and enjoyable. Su also creates an inclusive learning environment by respecting different cultural backgrounds, which makes everyone feel valued and comfortable participating. I would highly recommend her to anyone looking to improve their English in a supportive and professional setting.",
+        "name": "Fiorenzo Tristaino",
+        "role": "Senior Key Account Manager"
+      },
+      {
+        "quote": "My name is Widad, and I attended Su's English courses when I was a junior, shortly after moving to Luxembourg from a French-speaking country. I really enjoyed the lessons because they were practical and useful for my work. We had lots of opportunities to speak, and Su always gave helpful feedback on my grammar and pronunciation. I also learned useful business English for meetings, emails, and presentations that I still use in my job today. The lessons were well organized, with a good balance of speaking practice and grammar. The role plays and real business examples made the classes interesting and helped me become much more confident speaking English. I would definitely recommend Su's lessons to anyone who wants to improve their English in a friendly, supportive, and professional environment.",
+        "name": "Widad Takief",
+        "role": "Audit Manager"
+      },
+      {
+        "quote": "Learning with Su has been a truly rewarding experience. From the very beginning, she took the time to understand my strengths and identify the areas where I needed the most support. Every lesson was carefully adapted to my goals, making the learning process both effective and enjoyable. Thanks to her guidance, my spoken and written English improved considerably, and I now feel much more confident expressing myself in everyday and professional situations. Her patience, encouragement, and ability to explain complex concepts clearly made a huge difference in my progress. I would wholeheartedly recommend Su to anyone who wants to improve their English with a teacher who is knowledgeable, motivating, and genuinely invested in her students' success.",
+        "name": "Mylène Di Nino",
+        "role": "Management Consultant & Sophrologist"
+      }
+    ]
+  },
+  "faq": {
+    "h2": "Frequently asked questions",
+    "items": [
+      {
+        "q": "Who is this coaching for?",
+        "a": "Experienced professionals - senior managers, mid-level executives, and specialists - who are highly competent in their work and want their English to reflect that competence. Su also designs tailored programmes for organisations and executive teams."
+      },
+      {
+        "q": "Why is coaching needed?",
+        "a": "Most of Su's clients already work in English every day. Coaching is for the next level: precision in negotiations, presence in meetings, authority in presentations, and emails that take minutes instead of half an hour. The goal is English that works for you, not against you."
+      },
+      {
+        "q": "What programmes are offered?",
+        "a": "Eight core programmes: meetings and discussions, presentations, negotiations, professional emails and writing, leadership communication, cross-cultural communication, industry and role-specific vocabulary, and interviews and LinkedIn. Each one is built around your real workplace situations, and tailored team or executive programmes are available for organisations."
+      },
+      {
+        "q": "How are sessions delivered?",
+        "a": "Sessions are delivered online 1 to 1 and scheduled around your work. On-site sessions can also be arranged."
+      },
+      {
+        "q": "How long is a typical programme?",
+        "a": "Programmes are tailored to your goals. Most clients see meaningful change within the first 20-30 hours."
+      },
+      {
+        "q": "What about pricing?",
+        "a": "Pricing is on request and depends on scope. Book a call to discuss your objectives and receive a proposal."
+      }
+    ]
+  },
+  "finalCta": {
+    "h2": "Ready for your English to match your expertise?",
+    "body": "Book a call with Su. Tell her where English is holding you back - and get a programme designed around your work, your goals, and your next big meeting.",
+    "primary": "Book Your Call",
+    "secondary": "Prefer to write first? WhatsApp +352 661 502 425 or email hello@linguasupra.com"
+  },
+  "footer": {
+    "tagline": "Your Gateway to SUperior English",
+    "contact": "Contact",
+    "legal": "Legal",
+    "links": {
+      "legalNotice": "Legal Notice",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookie Policy",
+      "terms": "Terms & Conditions",
+      "disclaimer": "Disclaimer"
+    },
+    "rights": "© 2026 LinguaSUpra · All rights reserved."
+  },
+  "cookies": {
+    "text": "We use cookies to understand how the site is used. No non-essential cookies load before you accept.",
+    "accept": "Accept",
+    "reject": "Reject",
+    "policy": "Cookie Policy"
+  },
+  "ui": {
+    "eyebrow": {
+      "gap": "The gap",
+      "about": "About",
+      "programmes": "Programmes",
+      "how": "How it works",
+      "outcomes": "Outcomes",
+      "testimonials": "Testimonials",
+      "faq": "FAQ"
+    },
+    "hero": {
+      "certifications": "Certifications",
+      "certNote": "Certified executive coach & English trainer",
+      "leadersCoached": "Leaders coached",
+      "clientsNote": "C-suite & senior teams across 25+ nationalities",
+      "marquee": [
+        "CELTA certified",
+        "INFPC accredited",
+        "TESOL certified",
+        "Executive English coach",
+        "1 to 1 coaching"
+      ]
+    },
+    "trust": {
+      "labels": [
+        "Leaders coached",
+        "Years experience",
+        "Countries served",
+        "Fully personalised"
+      ],
+      "personalised": "1 to 1",
+      "accredited": "Accredited",
+      "certs": [
+        "CELTA certified",
+        "INFPC accredited",
+        "TESOL certified"
+      ]
+    },
+    "about": {
+      "h2Pre": "Meet",
+      "h2Highlight": "Su.",
+      "badge": "Your Business English coach",
+      "role": "Business English coach · 15+ yrs"
+    },
+    "programmes": {
+      "cardLabel": "Programme",
+      "meta": [
+        {
+          "chips": [
+            "Turn-taking drills",
+            "Live role-play",
+            "Immediate feedback"
+          ],
+          "outcome": "Encourage dialogue and interaction"
+        },
+        {
+          "chips": [
+            "Structuring & signposting",
+            "Delivery practice",
+            "Q&A handling"
+          ],
+          "outcome": "Live pitch rehearsals"
+        },
+        {
+          "chips": [
+            "Positioning phrases",
+            "Concession language",
+            "Closing lines"
+          ],
+          "outcome": "Real workplace scenarios"
+        },
+        {
+          "chips": [
+            "Correct formality",
+            "Tone & diplomacy",
+            "Concise & clear"
+          ],
+          "outcome": "Less time per email, greater accuracy"
+        },
+        {
+          "chips": [
+            "Difficult messages",
+            "Team motivation",
+            "Executive presence"
+          ],
+          "outcome": "Senior-level coaching for C-suite leaders"
+        },
+        {
+          "chips": [
+            "Register shifts",
+            "Reading the room",
+            "Global etiquette"
+          ],
+          "outcome": "8 countries of experience"
+        },
+        {
+          "chips": [
+            "Sector glossaries",
+            "Role-specific drills",
+            "Immediate application"
+          ],
+          "outcome": "Fully personalised 1 to 1 coaching"
+        },
+        {
+          "chips": [
+            "Interview preparation",
+            "CV development",
+            "LinkedIn profile development"
+          ],
+          "outcome": "Ready for the interview"
+        }
+      ],
+      "practiseLabel": "What you practise",
+      "deliveryLabel": "How it runs",
+      "delivery": [
+        "1 to 1 or small team",
+        "Online or on-site",
+        "Built around your role"
+      ]
+    },
+    "how": {
+      "h2Pre": "From first call to",
+      "h2Highlight": "confident in the room.",
+      "stepLabel": "Step"
+    },
+    "benefits": {
+      "h2Pre": "What changes for",
+      "h2Highlight": "you and your team.",
+      "sub": "Practical, measurable shifts your colleagues notice in your very next meeting, pitch, or email.",
+      "cta": "Book your analysis call"
+    },
+    "testimonials": {
+      "h2Pre": "What clients",
+      "h2Highlight": "say.",
+      "sub": "Senior professionals across a range of industries and functional verticals describe more confident meetings, clearer writing, and stronger presentations after coaching with Su.",
+      "readMore": "Read more",
+      "readLess": "Read less"
+    },
+    "faq": {
+      "h2Pre": "Frequently",
+      "h2Highlight": "asked.",
+      "sub": "Everything you need to know before booking. Still curious? Reach out - Su answers personally."
+    },
+    "finalCta": {
+      "h2Pre": "Ready for English that",
+      "h2Highlight": "matches your expertise?"
+    },
+    "footer": {
+      "ctaTitle": "Take the next big step in your career.",
+      "ctaBody": "Practical, personalised English coaching for professionals who already lead in their field.",
+      "ctaBook": "Book a call",
+      "ctaWhatsApp": "Message on WhatsApp",
+      "language": "Language",
+      "mainPages": "Main pages",
+      "home": "Home",
+      "cookieSettings": "Cookie Settings"
+    }
+  },
+  "legal": {
+    "legal": {
+      "eyebrow": "Section 1",
+      "title": "Legal Notice",
+      "updated": "19 July 2026",
+      "intro": "Mentions Légales - key information about the site owner, hosting, and applicable law, published in accordance with Luxembourg and EU requirements.",
+      "01": "Site Owner - Key Facts",
+      "02": "This website is operated by Sujata Agarwal, trading as LinguaSupra.",
+      "03": [
+        "ITEM",
+        "DETAIL"
+      ],
+      "04": [
+        "Trading name",
+        "Sujata Agarwal, trading as LinguaSUpra"
+      ],
+      "05": [
+        "Legal form",
+        "Independent professional established in Luxembourg and authorised to carry out business activities under Luxembourg law"
+      ],
+      "06": [
+        "Registered address",
+        "Um Trenker 19, L-6962 Senningen, Luxembourg"
+      ],
+      "07": [
+        "Email",
+        "hello@linguasupra.com"
+      ],
+      "08": [
+        "Phone",
+        "+352 661 502 425"
+      ],
+      "09": [
+        "VAT number (numéro de TVA)",
+        "LU31809711"
+      ],
+      "10": [
+        "Business Licence No. (autorisation d’établissement)",
+        "10115826/0"
+      ],
+      "11": [
+        "INFPC training-provider registration",
+        "SFA/AGRF/2024/34 (valid 04.04.2024 – 04.04.2029)"
+      ],
+      "12": [
+        "Website",
+        "linguasupra.com"
+      ],
+      "13": "Regulated Activity Notice",
+      "14": "LinguaSUpra is registered with the Institut National pour le Développement de la Formation Professionnelle Continue (INFPC), Luxembourg, as an approved provider of continuing professional training (formation professionnelle continue), under registration number SFA/AGRF/2024/34 (valid 04.04.2024 – 04.04.2029). This registration concerns eligibility within Luxembourg’s continuing-training framework and does not itself constitute membership of a professional order or a licence to practise a separately regulated profession.",
+      "15": "Person Responsible for Content",
+      "16": "Sujata Agarwal, at the registered address above, is responsible for the content of this website within the meaning of applicable Luxembourg media and e-commerce law.",
+      "17": "Hosting",
+      "18": "This website is built and hosted using Lovable’s platform infrastructure. Technical hosting is provided by Lovable Labs, Inc. and its underlying infrastructure and content-delivery providers. For hosting-specific data-processing details, refer to Lovable’s own privacy and hosting documentation, available at lovable.dev.",
+      "19": "Intellectual Property and Trading Name",
+      "20": "All content on this website - including text, the LinguaSUpra name, wordmark and logo, images, graphics, and the overall visual design - is the property of Sujata Agarwal / LinguaSUpra, or is used with the permission of the relevant rights holder, and is protected under applicable Luxembourg and EU intellectual property law, including copyright. Reproduction, distribution, public communication, or any other use of this content, in whole or in part, without prior written consent, is prohibited, except as permitted by mandatory statutory exceptions.",
+      "21": "“LinguaSupra” is a trading name used by Sujata Agarwal. It is not presented or claimed as a registered trademark.",
+      "22": "Liability for Content and Links",
+      "23": "As service provider, Sujata Agarwal is responsible for her own content on this website in accordance with general Luxembourg and EU law. There is, however, no obligation to monitor transmitted or stored third-party information, or to investigate circumstances indicating unlawful activity, except where required by applicable law. Obligations to remove or block information under general law remain unaffected. Liability in this respect arises only from the point at which a concrete infringement becomes known; upon becoming aware of any such infringement, the relevant content will be removed promptly.",
+      "24": "Electronic Commerce",
+      "25": "Where applicable, this website and the information published on it comply with the Luxembourg Law of 14 August 2000 on electronic commerce, as amended, which implements the EU E-Commerce Directive.",
+      "26": "Applicable Law",
+      "27": "This website and this Legal Notice are governed by the laws of the Grand Duchy of Luxembourg. To the extent legally permissible, the courts of Luxembourg City have jurisdiction over any dispute arising from the use of this website.",
+      "28": "Consumer Rights",
+      "29": "The above is without prejudice to any mandatory consumer-protection provisions of the law of the country in which a consumer visitor habitually resides. Such mandatory rights remain fully preserved.",
+      "30": "Related Legal Pages",
+      "31": "Privacy Policy",
+      "32": "Cookie Policy",
+      "33": "Terms & Conditions",
+      "34": "© 2026 LinguaSupra. All rights reserved.",
+      "35": "Questions about this page? Email hello@linguasupra.com or call +352 661 502 425."
+    },
+    "privacy": {
+      "eyebrow": "Section 2",
+      "title": "Privacy Policy",
+      "updated": "19 July 2026",
+      "intro": "This Privacy Policy explains what personal data we process, on what legal basis, how long we keep it, who receives it, and the rights you have under the GDPR.",
+      "01": "Data Controller",
+      "02": [
+        "ITEM",
+        "DETAIL"
+      ],
+      "03": [
+        "Controller",
+        "Sujata Agarwal, trading as LinguaSUpra"
+      ],
+      "04": [
+        "Address",
+        "Um Trenker 19, L-6962 Senningen, Luxembourg"
+      ],
+      "05": [
+        "Email",
+        "hello@linguasupra.com"
+      ],
+      "06": [
+        "Phone",
+        "+352 661 502 425"
+      ],
+      "07": "What We Process, Why, and On What Legal Basis",
+      "08": [
+        "DATA / ACTIVITY",
+        "PURPOSE",
+        "LEGAL BASIS (GDPR)"
+      ],
+      "09": [
+        "Server / access log data (IP address, timestamp, browser, referrer URL)",
+        "Secure, stable technical operation of the website; detecting and investigating misuse",
+        "Art. 6(1)(f) - legitimate interest"
+      ],
+      "10": [
+        "Enquiries by email, phone, or WhatsApp (name, contact details, message content)",
+        "Responding to your enquiry",
+        "Art. 6(1)(b) pre-contractual steps, or Art. 6(1)(f) legitimate interest"
+      ],
+      "11": [
+        "Booking data via Cal (name, email, selected date/time, notes)",
+        "Scheduling and managing your appointment",
+        "Art. 6(1)(b) pre-contractual steps"
+      ],
+      "12": [
+        "Client and coaching records (role, sector, objectives, session notes)",
+        "Designing and delivering your coaching programme",
+        "Art. 6(1)(b) contract performance"
+      ],
+      "13": [
+        "Billing data (name, billing address, VAT details, payment records)",
+        "Invoicing; Luxembourg accounting and tax compliance",
+        "Art. 6(1)(b) contract; Art. 6(1)(c) legal obligation"
+      ],
+      "14": [
+        "Analytics data via Google Analytics 4 (see §2.4)",
+        "Understanding website usage to improve the site",
+        "Art. 6(1)(a) - consent via cookie banner"
+      ],
+      "15": "WhatsApp - Additional Notice",
+      "16": "WhatsApp is provided by WhatsApp Ireland Limited, part of the Meta group. When you message us via WhatsApp, your phone number and message content are also processed by WhatsApp/Meta under Meta’s own privacy policy, over which we have no control. If you prefer your data not to be processed by Meta, please contact us by email instead.",
+      "17": "Google Analytics 4 - Detailed Notice",
+      "18": "With your consent, given via the cookie banner, this website uses Google Analytics 4 (“GA4”), a web analytics service provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (“Google”).",
+      "19": [
+        "ASPECT",
+        "DETAIL"
+      ],
+      "20": [
+        "Purpose",
+        "Statistical analysis of website usage (pages viewed, session duration, traffic sources) to improve site content and performance."
+      ],
+      "21": [
+        "Data collected",
+        "Usage and interaction data collected via cookies (see §3.2); GA4 does not log or store your full IP address."
+      ],
+      "22": [
+        "Legal basis",
+        "Art. 6(1)(a) GDPR - your consent, given through the cookie banner before any GA4 cookie is set."
+      ],
+      "23": [
+        "Retention",
+        "Event-level data is retained for 14 months, after which it is automatically deleted (GA4 configured retention setting)."
+      ],
+      "24": [
+        "International transfer",
+        "Google may process data outside the EEA. Transfers rely on the EU–U.S. Data Privacy Framework and/or the European Commission’s Standard Contractual Clauses, as implemented by Google."
+      ],
+      "25": [
+        "Google Analytics property / measurement ID",
+        "[PLACEHOLDER - GA4 Measurement ID to be inserted once the property is created, e.g. G-XXXXXXXXXX]"
+      ],
+      "26": [
+        "Opt-out",
+        "You may install the Google Analytics Opt-out Browser Add-on (tools.google.com/dlpage/gaoptout), or decline analytics cookies via the cookie banner."
+      ],
+      "27": [
+        "Google’s own policy",
+        "See Google’s Privacy Policy at policies.google.com/privacy for how Google itself processes data as part of providing GA4."
+      ],
+      "28": "Recipients and Processors",
+      "29": [
+        "RECIPIENT",
+        "ROLE / PURPOSE"
+      ],
+      "30": [
+        "Lovable (Lovable Labs, Inc.)",
+        "Website hosting and infrastructure"
+      ],
+      "31": [
+        "Cal",
+        "Appointment scheduling"
+      ],
+      "32": [
+        "Google Ireland Limited",
+        "Website analytics (Google Analytics 4), only after consent"
+      ],
+      "33": [
+        "Email service provider",
+        "Sending and receiving business email at hello@linguasupra.com"
+      ],
+      "34": [
+        "WhatsApp Ireland Limited (Meta)",
+        "Messages you initiate via WhatsApp"
+      ],
+      "35": [
+        "Accountant / tax adviser",
+        "Invoicing and Luxembourg tax compliance, where necessary"
+      ],
+      "36": "Each recipient acting as our processor is bound by appropriate data-processing terms under Art. 28 GDPR. We do not sell personal data, and we do not share personal data with third parties for their own independent marketing purposes.",
+      "37": "International Data Transfers",
+      "38": "Where a provider listed above processes data outside the European Economic Area - in particular Google (GA4) and Meta (WhatsApp) - the transfer relies on an adequacy decision of the European Commission under Art. 45 GDPR, or on appropriate safeguards such as the European Commission’s Standard Contractual Clauses under Art. 46 GDPR, or (for Google) the EU–U.S. Data Privacy Framework. A copy of the relevant safeguard can be requested at hello@linguasupra.com.",
+      "39": "Retention Periods",
+      "40": [
+        "DATA TYPE",
+        "RETENTION PERIOD"
+      ],
+      "41": [
+        "Server log data",
+        "Automatically deleted or anonymised within approximately 30 days, unless needed to investigate a specific security incident"
+      ],
+      "42": [
+        "Enquiry data not leading to a client relationship",
+        "Deleted no later than 12 months after last contact, or earlier on request"
+      ],
+      "43": [
+        "Client and coaching records",
+        "Retained for the duration of the business relationship, then per statutory periods below"
+      ],
+      "44": [
+        "Invoicing / accounting data",
+        "Up to 10 years, as required by Luxembourg commercial and tax law"
+      ],
+      "45": [
+        "Google Analytics 4 event data",
+        "14 months (see §2.4)"
+      ],
+      "46": "Your Rights",
+      "47": [
+        "RIGHT",
+        "WHAT IT MEANS"
+      ],
+      "48": [
+        "Access (Art. 15)",
+        "Request confirmation of, and access to, the personal data we hold about you."
+      ],
+      "49": [
+        "Rectification (Art. 16)",
+        "Request correction of inaccurate or incomplete data."
+      ],
+      "50": [
+        "Erasure (Art. 17)",
+        "Request deletion of your data, where a legal ground for erasure applies."
+      ],
+      "51": [
+        "Restriction (Art. 18)",
+        "Request that we limit how your data is processed in certain circumstances."
+      ],
+      "52": [
+        "Portability (Art. 20)",
+        "Receive your data in a structured, commonly used, machine-readable format."
+      ],
+      "53": [
+        "Objection (Art. 21)",
+        "Object to processing carried out on the basis of legitimate interest."
+      ],
+      "54": [
+        "Withdraw consent",
+        "Withdraw consent at any time, without affecting processing carried out before withdrawal."
+      ],
+      "55": "To exercise any of these rights, contact hello@linguasupra.com. We will respond within the timeframe required by the GDPR (generally within one month).",
+      "56": "Automated Decision-Making",
+      "57": "We do not use automated decision-making or profiling within the meaning of Art. 22 GDPR.",
+      "58": "Data Security and Breach Notification",
+      "59": "We apply appropriate technical and organisational measures to protect personal data against unauthorised access, loss, or misuse, proportionate to the nature of the data processed. In the event of a personal data breach likely to result in a risk to your rights and freedoms, we will notify the CNPD without undue delay and, where feasible, within 72 hours of becoming aware of the breach, in accordance with Art. 33 GDPR, and will notify affected individuals directly where the breach is likely to result in a high risk, in accordance with Art. 34 GDPR.",
+      "60": "Right to Lodge a Complaint",
+      "61": "Without prejudice to any other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory authority. The competent authority in Luxembourg is:",
+      "62": "Commission Nationale pour la Protection des Données (CNPD), 15, Boulevard du Jazz, L-4370 Belvaux, Luxembourg - www.cnpd.lu",
+      "63": "Obligation to Provide Data",
+      "64": "Provision of personal data is generally voluntary. However, certain data - such as contact details for an enquiry, or billing information for a paid engagement - is necessary to respond to you or to perform a contract; without it, we may be unable to provide the requested service.",
+      "65": "Changes to This Policy",
+      "66": "We may update this Privacy Policy from time to time to reflect legal, technical, or operational changes. The version published on this website is always the current and applicable one.",
+      "67": "Questions about this page? Email hello@linguasupra.com or call +352 661 502 425."
+    },
+    "cookies": {
+      "eyebrow": "Section 3",
+      "title": "Cookie Policy",
+      "updated": "19 July 2026",
+      "intro": "We use a small number of cookies to keep the site working and - only with your consent - to understand how it is used.",
+      "01": "What Are Cookies?",
+      "02": "Cookies are small text files placed on your device when you visit a website. They allow the site to function correctly, remember your choices, and, where you consent, help us understand how the site is used.",
+      "03": "Cookies Used on This Website",
+      "04": [
+        "CATEGORY",
+        "COOKIE(S)",
+        "PURPOSE",
+        "DURATION",
+        "CONSENT REQUIRED?"
+      ],
+      "05": [
+        "Strictly necessary",
+        "Cookie-consent preference cookie",
+        "Remembers your cookie choice so we do not ask on every visit",
+        "12 months",
+        "No - exempt under Art. 5(3) ePrivacy"
+      ],
+      "06": [
+        "Analytics (Google Analytics 4)",
+        "_ga",
+        "Distinguishes unique website users",
+        "13 months",
+        "Yes"
+      ],
+      "07": [
+        "Analytics (Google Analytics 4)",
+        "_ga_[container-id]",
+        "Persists GA4 session state",
+        "13 months",
+        "Yes"
+      ],
+      "08": [
+        "Third-party (on referral only)",
+        "Set by Cal / WhatsApp when you follow those links",
+        "Managed entirely by the external provider",
+        "Per provider’s own policy",
+        "Governed by that provider"
+      ],
+      "09": "Legal basis: strictly necessary cookies are set under Art. 6(1)(f) GDPR and the ePrivacy exemption for cookies essential to a service you have explicitly requested. Google Analytics cookies are set only after you actively accept them via the cookie banner, under Art. 6(1)(a) GDPR (consent).",
+      "10": "Managing Your Consent",
+      "11": "On your first visit, a cookie banner allows you to accept or reject non-essential (analytics) cookies before any such cookie is set. You can change or withdraw your consent at any time via the “Cookie Settings” link in the website footer, or by clearing cookies in your browser. Withdrawing consent does not affect the lawfulness of processing carried out before withdrawal.",
+      "12": "More Information",
+      "13": "For full details on how your personal data is processed, please see the Privacy Policy.",
+      "14": "Questions about this page? Email hello@linguasupra.com or call +352 661 502 425.",
+      "banner": {
+        "text": "We use cookies to understand how the site is used. No non-essential cookies load before you accept.",
+        "accept": "Accept",
+        "reject": "Reject",
+        "policy": "Cookie Policy"
+      }
+    },
+    "terms": {
+      "eyebrow": "Section 4",
+      "title": "Terms & Conditions",
+      "updated": "19 July 2026",
+      "intro": "These Terms govern the use of linguasupra.com and the provision of our Business English coaching and training services.",
+      "01": "Scope and Provider",
+      "02": "These Terms & Conditions (“Terms”) govern the use of the website linguasupra.com and the provision of Business English coaching and training Services by Sujata Agarwal, trading as LinguaSUpra, Um Trenker 19, L-6962 Senningen, Luxembourg (“we”, “us”, “LinguaSUpra”), VAT number LU31809711, Business Licence No. 10115826/0. By booking or engaging our Services, the client (“you”) accepts these Terms. Defined terms have the meaning given in the Glossary at the start of this document.",
+      "03": "Services",
+      "04": "We provide Business English coaching and training for private individuals and organisations, including individually designed programmes covering meetings, presentations, negotiations, business writing, leadership communication, cross-cultural communication, industry- and role-specific vocabulary, interview preparation, and LinkedIn profile support. The precise scope, format, schedule, and duration of each programme are agreed individually with the client before the engagement begins, following an initial consultation call.",
+      "05": "Conclusion of Contract",
+      "06": "Information published on this website, including indicative programme descriptions, does not constitute a binding offer. A binding contract is concluded only when we confirm an agreed programme, scope, and price in writing (including by email), or when Services begin by mutual agreement following such confirmation.",
+      "07": "Prices and Payment Terms",
+      "08": [
+        "ITEM",
+        "TERM"
+      ],
+      "09": [
+        "Pricing",
+        "Provided on request; confirmed individually in the written proposal or agreement for each programme"
+      ],
+      "10": [
+        "VAT",
+        "All quoted prices are exclusive of Luxembourg VAT (VAT number LU31809711), added at the applicable statutory rate and shown separately on each invoice"
+      ],
+      "11": [
+        "Payment due",
+        "Within 14 days of the invoice date"
+      ],
+      "12": [
+        "Payment method",
+        "Bank transfer, unless another method is agreed in writing"
+      ],
+      "13": [
+        "Late payment",
+        "Statutory late-payment interest may apply; further sessions may be suspended until outstanding invoices are settled, subject to applicable Luxembourg law on late payment in commercial transactions"
+      ],
+      "14": "Cancellation and Rescheduling of Sessions",
+      "15": "Clients may cancel or reschedule a confirmed session free of charge with at least 24 hours’ notice before the scheduled start time.",
+      "16": "Sessions cancelled, rescheduled, or missed (no-show) with less than 24 hours’ notice can be charged in full at the agreed session rate, at our discretion, taking into account the circumstances.",
+      "17": "We will make reasonable efforts to notify clients as early as possible and to offer an alternative time if we need to cancel or reschedule on our side; no charge applies in that case.",
+      "18": "Client Obligations",
+      "19": "The client agrees to provide the information reasonably required to design and deliver the programme (e.g. role, sector, objectives, relevant workplace materials), to attend scheduled sessions punctually, and to participate actively. Delays in providing necessary information may affect scheduling or the effectiveness of the programme.",
+      "20": "Confidentiality",
+      "21": "We treat all information shared by the client - including business context, documents, and session content - as strictly confidential, and will not disclose it to third parties without the client’s consent, except where disclosure is required by law. This standard applies in full to senior-level, executive, and other sensitive or confidential engagements.",
+      "22": "Intellectual Property",
+      "23": "Training materials, exercises, and programme content prepared by us remain our intellectual property unless expressly agreed otherwise in writing. Materials are provided for the client’s personal or internal business use in connection with the programme and may not be reproduced, distributed, or used to train any third party or automated system without our prior written consent.",
+      "24": "Liability",
+      "25": "We provide our Services with professional care and in line with recognised standards of Business English coaching. Coaching outcomes depend on individual participation, starting level, and circumstances outside our control; accordingly, no specific learning outcome or result is guaranteed. We are liable without limitation for damage caused by intent or gross negligence, and for injury to life, body, or health. For damage caused by slight (ordinary) negligence, our liability is limited to the breach of material contractual obligations (cardinal obligations) and, in that case, to the loss or damage typically foreseeable at the time the contract was concluded, to the extent permitted under Luxembourg law.",
+      "26": "Force Majeure",
+      "27": "Neither party is liable for delay or failure to perform an obligation under these Terms where such delay or failure results from circumstances beyond that party’s reasonable control, including illness, technical failure of third-party platforms (e.g. booking or video-conferencing tools), or other events of force majeure. The affected party will inform the other as soon as reasonably possible and both parties will cooperate to reschedule affected sessions.",
+      "28": "Consumer Rights (EU Consumers)",
+      "29": "If you are a consumer habitually resident in the EU and this contract was concluded at a distance (e.g. by email or via an online booking), you generally have a 14-day right of withdrawal from the date the contract is concluded, under the EU Consumer Rights Directive as implemented in Luxembourg law. This right does not apply, or may be lost, where the service has been fully performed with your prior express consent and acknowledgement that you thereby lose your right of withdrawal once fully performed - for example, where a coaching session has already taken place at your request before the 14-day period has elapsed. Where applicable, we will seek your express consent and acknowledgement before providing Services within the withdrawal period.",
+      "30": "The European Commission’s Online Dispute Resolution platform is available at https://ec.europa.eu/consumers/odr. We are not obliged to, and do not currently, participate in dispute resolution proceedings before a consumer arbitration board.",
+      "31": "Notices",
+      "32": "Any formal notice under these Terms must be sent in writing to hello@linguasupra.com (from us) or to the email address you provided when booking (from you), and is deemed received the next business day.",
+      "33": "No Waiver",
+      "34": "Our failure to enforce any provision of these Terms at any time does not constitute a waiver of our right to enforce that or any other provision later.",
+      "35": "Assignment",
+      "36": "You may not assign or transfer your rights or obligations under these Terms without our prior written consent. We may transfer our rights and obligations in connection with a transfer of our business, provided your rights under these Terms are not materially affected.",
+      "37": "Entire Agreement",
+      "38": "These Terms, together with the individually confirmed programme proposal or agreement, constitute the entire agreement between the parties regarding the Services, and supersede any prior understanding, whether written or oral.",
+      "39": "Severability",
+      "40": "If any provision of these Terms is or becomes invalid or unenforceable, the validity of the remaining provisions is not affected. The invalid provision will be replaced by a valid provision that most closely reflects the economic and legal intent of the original.",
+      "41": "Governing Law and Jurisdiction",
+      "42": "These Terms are governed by the laws of the Grand Duchy of Luxembourg, without prejudice to any mandatory consumer-protection provisions of the law of the country in which a consumer client habitually resides. To the extent legally permissible, the courts of Luxembourg City have exclusive jurisdiction over any dispute arising from or in connection with these Terms.",
+      "43": "Questions about this page? Email hello@linguasupra.com or call +352 661 502 425."
+    },
+    "disclaimer": {
+      "eyebrow": "Section 5",
+      "title": "Disclaimer",
+      "updated": "19 July 2026",
+      "intro": "How to interpret the content published on this website, and the limits of what our coaching services provide.",
+      "01": "Content of This Website",
+      "02": "The content of this website has been prepared with care and is reviewed periodically. However, we do not guarantee that all information is complete, accurate, or up to date at every moment. Content describes our approach, experience, and services in general terms and does not constitute individual professional, legal, tax, or career advice for any specific situation. For guidance tailored to your circumstances, please book a call.",
+      "03": "Coaching Outcomes",
+      "04": "References on this website to confidence, fluency, results, or career impact describe the aim and general experience of our coaching approach. Outcomes depend on factors specific to each client - including starting level, consistency of practice, and workplace context - and are not guaranteed.",
+      "05": "External Links and Third-Party Services",
+      "06": "This website links to external services, including our booking platform (Cal), WhatsApp, LinkedIn, and Google Analytics. We have no control over, and accept no responsibility for, the content, availability, or data practices of these external services; each is governed by its own terms and privacy policy. At the time each link was set, no unlawful content was apparent on the linked page. Should we become aware of any infringement, the relevant link will be removed promptly.",
+      "07": "Regulated Activity",
+      "08": "LinguaSUpra’s INFPC registration (SFA/AGRF/2024/34 (valid 04.04.2024 – 04.04.2029)) relates to Luxembourg’s continuing-training framework. It does not constitute legal, medical, psychological, or other regulated professional advice, and our Services should not be relied upon as a substitute for such advice where it is required.",
+      "09": "Contact",
+      "10": "Questions about this website or these notices can be sent to hello@linguasupra.com or +352 661 502 425.",
+      "11": "Questions about this page? Email hello@linguasupra.com or call +352 661 502 425."
+    },
+    "ui": {
+      "back": "Back to home",
+      "page": "Website page",
+      "updated": "Last updated",
+      "toc": "On this page",
+      "readTime": "min read",
+      "language": "Language"
+    }
+  },
+  "clients": {
+    "eyebrow": "Trusted by teams and leaders at"
+  }
+}
