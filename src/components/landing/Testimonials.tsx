@@ -15,6 +15,7 @@ import photoWidad from "@/assets/testimonials/widad-takief.webp";
 import photoMylene from "@/assets/testimonials/mylene-di-nino.webp";
 import photoMyriam from "@/assets/testimonials/myriam-schmitz.webp";
 import photoSuin from "@/assets/testimonials/suin-jo.webp";
+import photoFiorenzo from "@/assets/testimonials/fiorenzo-tristaino.webp.asset.json";
 
 
 type Item = {
@@ -108,6 +109,7 @@ const ITEMS: Item[] = [
     quote:
       "I highly recommend Su as an English teacher and coach. She creates a friendly and motivating atmosphere where everyone feels comfortable speaking. The lessons included plenty of opportunities to practise speaking, with immediate feedback and corrections that really helped me improve my confidence and fluency. I also found the role plays based on real business situations extremely useful, as they allowed me to apply what I learned in realistic scenarios. Su is professional, patient and always takes the time to explain grammar clearly. What I appreciated most was how she personalised the lessons to match my goals, making every session practical, relevant and enjoyable. Su also creates an inclusive learning environment by respecting different cultural backgrounds, which makes everyone feel valued and comfortable participating. I would highly recommend her to anyone looking to improve their English in a supportive and professional setting.",
     name: "Fiorenzo Tristaino",
+    photo: photoFiorenzo.url,
     role: "Senior Key Account Manager",
     company: "Pluxee Luxembourg",
     highlights: [
@@ -317,7 +319,7 @@ export function Testimonials() {
 
         <Reveal variant="up" delay={0.2}>
           <div
-            className="relative mt-14 sm:mt-16"
+            className="relative mt-24 sm:mt-28 md:mt-32"
             onMouseEnter={pauseAutoplay}
             onMouseLeave={resumeAutoplay}
             onTouchStart={pauseAutoplay}

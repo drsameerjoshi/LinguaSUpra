@@ -100,14 +100,14 @@ export function Programmes() {
             className="relative z-10"
             style={{ height: `${total * 85}vh` }}
           >
-            <div className="sticky top-0 flex h-[100svh] flex-col justify-start pt-6 pb-4 md:justify-center md:pt-8 md:pb-8">
+            <div className="sticky top-0 flex h-[100svh] flex-col justify-start pt-4 pb-3 md:justify-center md:pt-8 md:pb-8">
               <div className="relative z-30 shrink-0">
                 <Reveal variant="fade">
                   <Eyebrow icon={Layers} label={t("ui.eyebrow.programmes")} />
                 </Reveal>
                 <Reveal variant="up" delay={0.05}>
                   <h2
-                    className="mt-3 max-w-3xl font-display text-3xl leading-[1.02] text-foreground sm:text-4xl md:text-5xl"
+                    className="mt-2.5 max-w-3xl font-display text-3xl leading-[1.02] text-foreground sm:text-4xl md:mt-3 md:text-5xl"
                     style={{ letterSpacing: "-0.04em", fontWeight: 500 }}
                   >
                     {t("programmes.h2")}
@@ -116,8 +116,8 @@ export function Programmes() {
               </div>
 
               <article
-                className="relative mt-5 w-full overflow-hidden rounded-[28px] bg-[#0B0B0F] text-white shadow-[0_40px_100px_-50px_rgba(10,10,25,0.8)] md:mt-7 md:rounded-[36px]"
-                style={{ height: "min(560px, calc(100svh - 17rem))" }}
+                className="relative mt-4 w-full overflow-hidden rounded-[28px] bg-[#0B0B0F] text-white shadow-[0_40px_100px_-50px_rgba(10,10,25,0.8)] md:mt-7 md:rounded-[36px]"
+                style={{ height: "min(620px, calc(100svh - 13rem))" }}
               >
 
                 {/* soft brand glow */}
@@ -130,8 +130,8 @@ export function Programmes() {
                   }}
                 />
 
-                <div className="relative grid h-full grid-rows-[1fr_auto] gap-0 p-4 md:p-10 lg:p-14">
-                  <div className="grid min-h-0 grid-rows-[auto_1fr] gap-3 md:grid-cols-[1.05fr_1fr] md:grid-rows-none md:gap-10">
+                <div className="relative grid h-full grid-rows-[minmax(0,1fr)_auto] gap-0 px-4 pb-6 pt-4 md:p-10 lg:p-14">
+                  <div className="grid min-h-0 grid-rows-[auto_minmax(0,1fr)] gap-3 md:grid-cols-[1.05fr_1fr] md:grid-rows-none md:gap-10">
                     {/* LEFT: number + heading */}
                     <div className="flex min-h-0 min-w-0 flex-col">
                       <div className="flex items-start justify-between gap-3">
@@ -159,7 +159,7 @@ export function Programmes() {
                       </div>
 
                       {/* fixed-size stage: content is absolutely layered */}
-                      <div className="relative mt-4 min-h-[5.25rem] flex-1 md:mt-6">
+                      <div className="relative mt-3 min-h-[5rem] flex-1 md:mt-6 md:min-h-[5.25rem]">
                         <AnimatePresence initial={false}>
                           <motion.div
                             key={`l-${index}`}
@@ -178,7 +178,7 @@ export function Programmes() {
                             >
                               {card?.title}
                             </h3>
-                            <p className="mt-2.5 line-clamp-2 max-w-md text-[13px] leading-relaxed text-white/65 md:mt-5 md:line-clamp-none md:text-base">
+                            <p className="mt-2 line-clamp-2 max-w-md text-[13px] leading-[1.45] text-white/65 md:mt-5 md:line-clamp-none md:text-base md:leading-relaxed">
                               {card?.text}
                             </p>
                           </motion.div>
@@ -195,16 +195,16 @@ export function Programmes() {
                           initial="enter"
                           animate="show"
                           exit="exit"
-                          className={`${layer} flex min-w-0 flex-col justify-center overflow-hidden rounded-2xl border border-white/10 bg-white/[0.04] p-4 backdrop-blur-sm md:p-7`}
+                          className={`${layer} flex min-w-0 flex-col justify-start overflow-hidden rounded-2xl border border-white/10 bg-white/[0.04] p-3.5 backdrop-blur-sm md:justify-center md:p-7`}
                         >
                           <span className="text-[10px] font-semibold uppercase tracking-[0.2em] text-white/50 md:text-[11px]">
                             {t("ui.programmes.practiseLabel")}
                           </span>
-                          <ul className="mt-2 space-y-1.5 md:mt-3.5 md:space-y-2.5">
+                          <ul className="mt-1.5 space-y-1 md:mt-3.5 md:space-y-2.5">
                             {copy.chips.map((chip, i) => (
                               <li
                                 key={chip}
-                                className={`items-start gap-2.5 text-sm text-white/85 md:gap-3 md:text-[15px] ${
+                                className={`items-start gap-2 text-[13px] text-white/85 md:gap-3 md:text-[15px] ${
                                   i >= 3 ? "hidden md:flex" : "flex"
                                 }`}
                               >
@@ -216,15 +216,15 @@ export function Programmes() {
                             ))}
                           </ul>
 
-                          <div className="mt-3 border-t border-white/10 pt-3 md:mt-5 md:pt-5">
+                          <div className="mt-2.5 border-t border-white/10 pt-2.5 md:mt-5 md:pt-5">
                             <span className="text-[10px] font-semibold uppercase tracking-[0.2em] text-white/50 md:text-[11px]">
                               {t("ui.programmes.deliveryLabel")}
                             </span>
-                            <ul className="mt-2.5 flex flex-wrap gap-1.5 md:mt-3">
+                            <ul className="mt-2 flex flex-wrap gap-1.5 md:mt-3">
                               {delivery.map((d) => (
                                 <li
                                   key={d}
-                                  className="rounded-full border border-white/12 bg-white/[0.06] px-2.5 py-1 text-[11px] font-medium text-white/75 md:text-xs"
+                                  className="rounded-full border border-white/12 bg-white/[0.06] px-2.5 py-1 text-[10px] font-medium leading-tight text-white/75 md:text-xs"
                                 >
                                   {d}
                                 </li>
@@ -232,7 +232,7 @@ export function Programmes() {
                             </ul>
                           </div>
 
-                          <div className="mt-3 flex items-center gap-2.5 border-t border-white/10 pt-3 md:mt-5 md:gap-3 md:pt-5">
+                          <div className="mt-2.5 flex items-center gap-2 border-t border-white/10 pt-2.5 md:mt-5 md:gap-3 md:pt-5">
                             <span
                               aria-hidden
                               className="inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-white/10 text-white md:h-8 md:w-8"
@@ -240,7 +240,7 @@ export function Programmes() {
                               <Check className="h-3.5 w-3.5 md:h-4 md:w-4" strokeWidth={2.5} />
                             </span>
                             <p
-                              className="font-display text-sm leading-tight text-white md:text-base"
+                              className="font-display text-[13px] leading-tight text-white md:text-base"
                               style={{ letterSpacing: "-0.02em" }}
                             >
                               {copy.outcome}
@@ -252,7 +252,7 @@ export function Programmes() {
                   </div>
 
                   {/* progress - always pinned to the card bottom */}
-                  <div className="mt-4 flex items-center gap-1.5 md:mt-8">
+                  <div className="mt-3 flex items-center gap-1.5 md:mt-8">
                     {cards.map((c, i) => (
                       <span
                         key={c.title}

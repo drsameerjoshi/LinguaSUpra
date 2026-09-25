@@ -190,13 +190,14 @@ export function Hero() {
 
           {/* -------- CENTER: Portrait -------- */}
           <div className="relative order-1 col-span-12 mt-10 flex items-end justify-center sm:mt-12 md:order-2 md:col-span-6 md:mt-14">
+            <div className="relative flex w-[min(82vw,385px)] items-end justify-center sm:w-[min(68vw,440px)] md:w-[min(34vw,420px)]">
             {/* Orbital ring - wraps around the portrait */}
             <motion.div
               aria-hidden
               initial={{ opacity: 0, scale: 0.92, rotate: -30 }}
               animate={{ opacity: 1, scale: 1, rotate: 0 }}
               transition={{ delay: 0.4, duration: 1.4, ease: EASE }}
-              className="pointer-events-none absolute left-1/2 top-[64%] aspect-square w-[min(104%,530px)] -translate-x-1/2 -translate-y-1/2 sm:top-[63%] sm:w-[min(100%,620px)] md:top-[60%] md:w-[min(100%,660px)]"
+              className="pointer-events-none absolute left-1/2 top-[55%] aspect-square w-[128%] -translate-x-1/2 -translate-y-1/2 sm:top-[56%] sm:w-[130%] md:top-[57%] md:w-[136%]"
             >
               <div
                 className="absolute inset-[7%] rounded-full border"
@@ -236,7 +237,7 @@ export function Hero() {
               fetchPriority="high"
               width={616}
               height={1000}
-              className="relative z-10 -mb-4 h-auto w-auto max-h-[58vh] max-w-full object-contain sm:max-h-[68vh] md:-mb-8 md:max-h-[74vh]"
+              className="relative z-10 -mb-4 h-auto w-full object-contain sm:-mb-6 md:-mb-8"
               style={{
                 transformOrigin: "bottom center",
                 scale: 1,
@@ -247,8 +248,7 @@ export function Hero() {
                   "linear-gradient(to bottom, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,0.97) 85%, rgba(0,0,0,0.88) 89%, rgba(0,0,0,0.7) 92%, rgba(0,0,0,0.45) 95%, rgba(0,0,0,0.2) 97.5%, rgba(0,0,0,0) 100%)",
               }}
             />
-
-
+            </div>
           </div>
 
           {/* -------- RIGHT: Leaders coached card -------- */}

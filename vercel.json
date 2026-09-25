@@ -1,4 +1,10 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": "tanstack-start"
+  "framework": "tanstack-start",
+  "rewrites": [
+    {
+      "source": "/__l5e/assets-v1/:path*",
+      "destination": "https://id-preview--a7951d9c-c982-4ac1-abf8-c61a5ce8a486.lovable.app/__l5e/assets-v1/:path*"
+    }
+  ]
 }

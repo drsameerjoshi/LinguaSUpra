@@ -7,8 +7,8 @@ import { Reveal } from "./Reveal";
 import { Eyebrow } from "./Eyebrow";
 import { SectionBackdrop } from "./SectionBackdrop";
 import { TrustBadges } from "./TrustBadges";
-import sujataPortraitAsset from "@/assets/sujata-about.webp";
-const sujataPortrait = sujataPortraitAsset;
+import sujataPortraitAsset from "@/assets/sujata-about.webp.asset.json";
+const sujataPortrait = sujataPortraitAsset.url;
 
 /**
  * About - asymmetric split:
